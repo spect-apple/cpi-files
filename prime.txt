@@ -1,1 +1,2 @@
-I'm optimus prime
+FirstName,DOB,Address,Phone,Email,Gender,Dept,Salary,JoiningDate,Company
+John Doe,12.05.2001,"12A,25 gandhi street ,Chennai",9089899900,john@gmail.com,Male,"IT-Finance",50000.00,15.04.2025,"ABC company,Chennai"
